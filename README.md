@@ -2,7 +2,7 @@
 
 Aplicação web para gerenciar freelas, metas financeiras e despesas. Desenvolvida com React, TypeScript e Supabase.
 
-![Freela Manager](https://via.placeholder.com/800x400?text=Adicione+um+screenshot+aqui)
+![Freela Manager](.github/images/screenshot-home.png)
 
 ## 🚀 [Ver Demo ao Vivo](https://freela-manager.vercel.app)
 
@@ -117,7 +117,7 @@ src/
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/freela-manager.git
+git clone https://github.com/iGetSilly/freela-manager
 
 # Entre na pasta
 cd freela-manager
@@ -173,13 +173,16 @@ CREATE TABLE gastos (
 ## 🎨 Screenshots
 
 ### Tela de Login
-![Login](https://via.placeholder.com/600x400?text=Login+Screen)
+![Login](.github/images/screenshot-home.png)
 
 ### Dashboard de Freelas
-![Freelas](https://via.placeholder.com/600x400?text=Freelas+Dashboard)
+![Freelas](.github/images/screenshot-freelas.png)
 
 ### Planejamento de Gastos
-![Gastos](https://via.placeholder.com/600x400?text=Gastos+Planning)
+![Gastos](.github/images/screenshot-gastos.png)
+
+### Planejamento de Metas
+![Metas](.github/images/screenshot-metas.png)
 
 ---
 
